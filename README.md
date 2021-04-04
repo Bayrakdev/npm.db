@@ -1,4 +1,4 @@
-![Image](https://img.shields.io/npm/v/foe.db?color=%2351F9C0&label=Wio.db) 
+![Image](https://img.shields.io/npm/v/foe.db?color=%2351F9C0&label=foe.db) 
 ![Image](https://img.shields.io/npm/dt/foe.db.svg?color=%2351FC0&maxAge=3600) 
 #
 ![Image](https://nodei.co/npm/foe.db.png?downloads=true&downloadRank=true&stars=true)
