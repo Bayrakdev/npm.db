@@ -1,0 +1,23 @@
+{
+  "name": "foe.db",
+  "version": "1.0.1",
+  "description": "Database modülü.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bayrakdev/foe.db.git"
+  },
+  "keywords": [
+    "database",
+    "db",
+    "bot",
+    "discord",
+	"quick.db"
+  ],
+  "author": "bayrak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bayrakdev/foe.db/issues"
+  },
+  "homepage": "https://github.com/Bayrakdev/foe.db#readme"
+}
