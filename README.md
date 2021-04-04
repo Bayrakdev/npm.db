@@ -9,7 +9,7 @@ const db = require('foe.db')
 
 # Veri Kaydetme - Çekme
 
-db.set("veri.1")
+db.set("veri.1") \n
 db.get("veri.1")
 db.fetch("veri.1")
 
