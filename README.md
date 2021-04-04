@@ -1,7 +1,7 @@
 # Nasıl İndirilir?
 
-```js
-npm i foe.db```
+<code>npm install foe.db
+</code>
 
 # Nasıl Kullanılır?
 
