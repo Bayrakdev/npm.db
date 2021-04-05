@@ -1,8 +1,8 @@
 ![Image](https://img.shields.io/npm/v/foe.db?color=%2351F9C0&label=foe.db) 
 ![Image](https://img.shields.io/npm/dt/foe.db.svg?color=%2351FC0&maxAge=3600) 
+<a href="https://discord.gg/zoom"><img src="https://img.shields.io/discord/222078108977594368?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a>
 #
 ![Image](https://nodei.co/npm/foe.db.png?downloads=true&downloadRank=true&stars=true)
-<a href="https://discord.gg/zoom"><img src="https://img.shields.io/discord/222078108977594368?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a>
 <br>
 ## Yüklemek İçin
 ```npm
