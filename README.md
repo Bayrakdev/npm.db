@@ -2,8 +2,8 @@
 ![Image](https://img.shields.io/npm/dt/foe.db.svg?color=%2351FC0&maxAge=3600) 
 #
 ![Image](https://nodei.co/npm/foe.db.png?downloads=true&downloadRank=true&stars=true)
-<br>
 <a href="https://discord.gg/zoom"><img src="https://img.shields.io/discord/222078108977594368?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a>
+<br>
 ## Yüklemek İçin
 ```npm
 npm install foe.db
