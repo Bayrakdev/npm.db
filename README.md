@@ -1,12 +1,12 @@
-![Image](https://img.shields.io/npm/v/foe.db?color=%2351F9C0&label=foe.db) 
-![Image](https://img.shields.io/npm/dt/foe.db.svg?color=%2351FC0&maxAge=3600) 
-<a href="https://discord.gg/zoom"><img src="https://img.shields.io/discord/222078108977594368?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a>
+![Image](https://img.shields.io/npm/v/npm.db?color=%2351F9C0&label=npm.db) 
+![Image](https://img.shields.io/npm/dt/npm.db.svg?color=%2351FC0&maxAge=3600) 
 #
-![Image](https://nodei.co/npm/foe.db.png?downloads=true&downloadRank=true&stars=true)
+![Image](https://nodei.co/npm/npm.db.png?downloads=true&downloadRank=true&stars=true)
 <br>
+
 ## Yüklemek İçin
 ```npm
-npm install foe.db
+npm install npm.db
 ```
 
 # Uyarı
@@ -15,8 +15,7 @@ npm install foe.db
 ## Nasıl Kullanılır?
 # JS
 ```javascript
-const { Database } = require("foe.db");
-const  db  = new Database("fireofeternity");
+const db = require("npm.db");
 
 // Data ms
 
